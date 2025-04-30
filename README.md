@@ -1,4 +1,4 @@
-# 🛒 ghost-shop
+# 🛒 GH0T-SH0P
 
 A modern, customizable, and user-friendly shop system for FiveM, built by **GhostNetw**.  
 Seamlessly integrates with your server, supporting both cash and bank payments, with a beautiful NUI interface.
