@@ -14,7 +14,7 @@ Seamlessly integrates with your server, supporting both cash and bank payments, 
 - 🔔 **Custom Notifications & Sounds**  
 
 ## 📸 Preview
-
+![alt text](<Screenshot 2025-04-30 121347.png>)
 > _Add a screenshot or GIF of your shop UI here!_
 
 ## 🚀 Installation
